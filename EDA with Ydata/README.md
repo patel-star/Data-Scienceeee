@@ -1,43 +1,28 @@
-# 🧠 Data Science Fundamentals
+# Exploratory Data Analysis (EDA) of Titanic Dataset with YData Profiling
 
-This repository contains my learning journey in Data Science, covering the core libraries and tools used for data analysis and visualization.
+This project contains an automated Exploratory Data Analysis (EDA) report generated using **YData Profiling** on the popular **Titanic dataset**.
 
----
+## 📁 Files
 
-## 📚 Notebooks Included
+- `Titanic.csv` – Raw dataset used for analysis
+- `output.html` – EDA report generated using YData Profiling
 
-### 🐼 Pandas
-- Data manipulation
-- Filtering, grouping, merging
-- Aggregation and reshaping
+## 📊 Tools & Libraries Used
 
-### 🔢 NumPy
-- Array creation and operations
-- Linear Algebra and Statistics
-- Indexing and Broadcasting
+- [YData Profiling](https://github.com/ydataai/ydata-profiling) (formerly `pandas-profiling`)
+- Python 3.10+
+- Jupyter Notebook or any Python IDE
 
-### 📊 Matplotlib
-- Line, bar, histogram, pie, and box plots
-- Real-world visualization examples
+## 🧠 What’s in the Report?
 
----
+The `output.html` file contains:
+- Dataset overview: size, types, missing values
+- Variable distributions and interactions
+- Correlations and statistical summaries
+- Duplicate and missing data analysis
 
-## 🚀 Tools Used
-- Colab
-- Python 3
-- Matplotlib, Pandas, NumPy
+## 🚀 How to Use
 
----
-
-## 📌 Next Steps
-- Diving into Seaborn and advanced visualizations
-- Begin statistics and hypothesis testing
-- Start EDA projects (Titanic, Netflix, etc.)
-
----
-
-## 📦 Getting Started
-Clone the repo and run notebooks with:
-
-```bash
-jupyter notebook
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/patel-star/Data-Scienceeee.git

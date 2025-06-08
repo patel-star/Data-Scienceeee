@@ -24,6 +24,7 @@ This repository contains my learning journey in Data Science, covering the core 
 
 ## 🚀 Tools Used
 - Colab
+-Jupyter Notebook
 - Python 3
 - Matplotlib, Pandas, NumPy
 
@@ -38,6 +39,7 @@ This repository contains my learning journey in Data Science, covering the core 
 
 ## 📦 Getting Started
 Clone the repo and run notebooks with:
+   git clone https://github.com/patel-star/Data-Scienceeee.git
 
 ```bash
 jupyter notebook
